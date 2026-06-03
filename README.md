@@ -138,8 +138,8 @@ Final deliverable report generated for clients and business users.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/async-book-catalog-scraper.git
-cd async-book-catalog-scraper
+git clone https://github.com/asm1-cpp/BookParserPyProject.git
+cd BookParserPyProject
 ```
 
 ### 2. Create a Virtual Environment
