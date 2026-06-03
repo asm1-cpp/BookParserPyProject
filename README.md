@@ -1,4 +1,3 @@
-````markdown
 # 📚 Async Book Catalog Scraper
 
 A high-performance asynchronous web scraping solution built with Python, designed to collect product data from **books.toscrape.com**, store it safely in a local database, and generate business-ready Excel reports.
@@ -258,6 +257,3 @@ Developed as a demonstration of:
 * Automated business reporting
 
 A practical example of how modern Python tooling can be combined to build reliable, client-ready data collection solutions.
-
-```
-```
